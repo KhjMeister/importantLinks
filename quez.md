@@ -3,4 +3,9 @@
   1- 
     frute = "Apple"
     print(frute[1:-1])
+    
+  2- 
+    print(bool("False"))
+    
+ 
   
