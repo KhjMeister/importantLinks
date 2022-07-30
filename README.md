@@ -17,6 +17,8 @@
 
 7- numbers // --  % -- ** -- += --
 
-8- number function  -- round()  --  abs()  -- import math -- math.ciel
+8- number function  -- round()  --  abs()  -- import math -- math.ciel() --
 
-#
+9-  input --  input("x: ")  -- converting data from user -- bool ( "" - 0 - None )
+
+# Session 2
