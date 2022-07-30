@@ -22,3 +22,6 @@
 9-  input --  input("x: ")  -- converting data from user -- bool ( "" - 0 - None )
 
 # Session 2
+
+1- 
+  ==  >=  <=  >  <  1=   ord("b")
