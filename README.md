@@ -23,5 +23,6 @@
 
 # Session 2
 
-1- 
-  ==  >=  <=  >  <  1=   ord("b")
+1-   ==  >=  <=  >  <  1=   ord("b")
+
+2- if   elif else  ---- 1 line if  ---- and or not  -----  18 <= age < 65  ---
