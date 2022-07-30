@@ -18,4 +18,4 @@ else:
   
 2-  run a program run until we type quit or quit
 
-3-
+3- run a program to type even numbeers between 1 to 10 and tell us ho many nuber we have between 1-10
