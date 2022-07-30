@@ -26,3 +26,17 @@
 1-   ==  >=  <=  >  <  1=   ord("b")
 
 2- if   elif else  ---- 1 line if  ---- and or not  -----  18 <= age < 65  ---
+
+3- for -- range(1,4,1) -- (n )*"."  ---- for  else ---- nested loop  ---- Iterable range(4) - "gfg"  - [0,1]
+
+4- while -- while infinit loop 
+
+# session 3
+
+
+
+
+
+
+
+
