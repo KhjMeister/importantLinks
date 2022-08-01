@@ -20,4 +20,6 @@ else:
 
 3- run a program to type even numbeers between 1 to 10 and tell us ho many nuber we have between 1-10
 
-4- create a function that if input devided by 3 return Fezz if devided by 5 return Buzz and if devided by both return FezzBuzz and if nt return "Not calculated"
+# Session 3
+
+1- create a function that if input devided by 3 return Fezz if devided by 5 return Buzz and if devided by both return FezzBuzz and if nt return "Not calculated"
