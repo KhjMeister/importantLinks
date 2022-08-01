@@ -33,9 +33,21 @@
 
 # session 3
 
+- functions 
 
+- Arguments -- Default Argument
 
+- type of functions 1-perform tasks, 2-return value
 
+- file open("file.txt","w") file.write(message)
+
+- *args -- **args
+
+- scope  (varable inside the function) -- global varable
+
+- Debuging
+
+# session 4
 
 
 
